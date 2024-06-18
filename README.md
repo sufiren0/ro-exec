@@ -7,3 +7,8 @@ Script for Ro-Ghoul and other
 ```lua
 loadstring(game:HttpGet(""))()
 ```
+
+# PVP
+```lua
+loadstring(game:HttpGet(""))()
+```
